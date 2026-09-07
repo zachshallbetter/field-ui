@@ -1,248 +1,248 @@
 {
-  "source": "Wikimedia pageviews API — en.wikipedia most-read, 2026/06/08 (trend vs 2026/06/07)",
+  "source": "Wikimedia pageviews API — en.wikipedia most-read, 2026/09/05 (trend vs 2026/09/04)",
   "license": "CC0",
-  "snapshotAt": "2026-06-10T00:38:26.143Z",
-  "day": "2026/06/08",
+  "snapshotAt": "2026-09-07T12:38:53.746Z",
+  "day": "2026/09/05",
   "articles": [
     {
-      "title": "Obsession (2025 film)",
-      "slug": "Obsession_(2025_film)",
-      "views": 291972,
-      "rank": 4,
-      "priorViews": 303010,
-      "url": "https://en.wikipedia.org/wiki/Obsession_(2025_film)"
+      "title": "Killing of the Clancy children",
+      "slug": "Killing_of_the_Clancy_children",
+      "views": 987730,
+      "rank": 2,
+      "priorViews": 1366345,
+      "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children"
     },
     {
-      "title": "2026 Peruvian general election",
-      "slug": "2026_Peruvian_general_election",
-      "views": 281754,
+      "title": "Mirzapur (film)",
+      "slug": "Mirzapur_(film)",
+      "views": 213671,
       "rank": 5,
-      "priorViews": 34164,
-      "url": "https://en.wikipedia.org/wiki/2026_Peruvian_general_election"
+      "priorViews": 133390,
+      "url": "https://en.wikipedia.org/wiki/Mirzapur_(film)"
     },
     {
-      "title": "2026 FIFA World Cup",
-      "slug": "2026_FIFA_World_Cup",
-      "views": 264644,
+      "title": "Miss World 2026",
+      "slug": "Miss_World_2026",
+      "views": 189000,
       "rank": 6,
-      "priorViews": 238040,
-      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+      "priorViews": 24190,
+      "url": "https://en.wikipedia.org/wiki/Miss_World_2026"
     },
     {
-      "title": "Backrooms (film)",
-      "slug": "Backrooms_(film)",
-      "views": 174832,
+      "title": "Katie Taylor",
+      "slug": "Katie_Taylor",
+      "views": 172068,
       "rank": 7,
-      "priorViews": 213709,
-      "url": "https://en.wikipedia.org/wiki/Backrooms_(film)"
+      "priorViews": 16058,
+      "url": "https://en.wikipedia.org/wiki/Katie_Taylor"
     },
     {
-      "title": "Alexander Zverev",
-      "slug": "Alexander_Zverev",
-      "views": 163973,
+      "title": "Gloria Steinem",
+      "slug": "Gloria_Steinem",
+      "views": 155129,
       "rank": 8,
-      "priorViews": 476702,
-      "url": "https://en.wikipedia.org/wiki/Alexander_Zverev"
+      "priorViews": 455831,
+      "url": "https://en.wikipedia.org/wiki/Gloria_Steinem"
     },
     {
-      "title": "Masters of the Universe (2026 film)",
-      "slug": "Masters_of_the_Universe_(2026_film)",
-      "views": 155937,
+      "title": "Equal Earth projection",
+      "slug": "Equal_Earth_projection",
+      "views": 147148,
       "rank": 9,
-      "priorViews": 190411,
-      "url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_(2026_film)"
+      "priorViews": 56484,
+      "url": "https://en.wikipedia.org/wiki/Equal_Earth_projection"
     },
     {
-      "title": "Christian Eriksen",
-      "slug": "Christian_Eriksen",
-      "views": 139845,
+      "title": "Hanuman Ansh",
+      "slug": "Hanuman_Ansh",
+      "views": 137018,
       "rank": 10,
-      "priorViews": 185631,
-      "url": "https://en.wikipedia.org/wiki/Christian_Eriksen"
+      "priorViews": 135553,
+      "url": "https://en.wikipedia.org/wiki/Hanuman_Ansh"
+    },
+    {
+      "title": "Toxic (2026 film)",
+      "slug": "Toxic_(2026_film)",
+      "views": 134671,
+      "rank": 11,
+      "priorViews": 148618,
+      "url": "https://en.wikipedia.org/wiki/Toxic_(2026_film)"
     },
     {
       "title": "Deaths in 2026",
       "slug": "Deaths_in_2026",
-      "views": 132986,
-      "rank": 11,
-      "priorViews": 126945,
-      "url": "https://en.wikipedia.org/wiki/Deaths_in_2026"
-    },
-    {
-      "title": "Peddi",
-      "slug": "Peddi",
-      "views": 128308,
+      "views": 133468,
       "rank": 12,
-      "priorViews": 137665,
-      "url": "https://en.wikipedia.org/wiki/Peddi"
-    },
-    {
-      "title": "79th Tony Awards",
-      "slug": "79th_Tony_Awards",
-      "views": 127279,
-      "rank": 13,
-      "priorViews": 21517,
-      "url": "https://en.wikipedia.org/wiki/79th_Tony_Awards"
-    },
-    {
-      "title": "Killing of Rachel Nickell",
-      "slug": "Killing_of_Rachel_Nickell",
-      "views": 117991,
-      "rank": 14,
-      "priorViews": 164794,
-      "url": "https://en.wikipedia.org/wiki/Killing_of_Rachel_Nickell"
-    },
-    {
-      "title": "Spencer Pratt",
-      "slug": "Spencer_Pratt",
-      "views": 116916,
-      "rank": 15,
-      "priorViews": 40672,
-      "url": "https://en.wikipedia.org/wiki/Spencer_Pratt"
-    },
-    {
-      "title": "Scary Movie (2026 film)",
-      "slug": "Scary_Movie_(2026_film)",
-      "views": 114201,
-      "rank": 16,
-      "priorViews": 141030,
-      "url": "https://en.wikipedia.org/wiki/Scary_Movie_(2026_film)"
-    },
-    {
-      "title": "Stacey King",
-      "slug": "Stacey_King",
-      "views": 110003,
-      "rank": 17,
-      "priorViews": 128512,
-      "url": "https://en.wikipedia.org/wiki/Stacey_King"
-    },
-    {
-      "title": "Inde Navarrette",
-      "slug": "Inde_Navarrette",
-      "views": 105410,
-      "rank": 18,
-      "priorViews": 108420,
-      "url": "https://en.wikipedia.org/wiki/Inde_Navarrette"
-    },
-    {
-      "title": "ChatGPT",
-      "slug": "ChatGPT",
-      "views": 105017,
-      "rank": 19,
-      "priorViews": 82585,
-      "url": "https://en.wikipedia.org/wiki/ChatGPT"
-    },
-    {
-      "title": "Ford Creek Patrol Cabin",
-      "slug": "Ford_Creek_Patrol_Cabin",
-      "views": 104947,
-      "rank": 20,
-      "priorViews": null,
-      "url": "https://en.wikipedia.org/wiki/Ford_Creek_Patrol_Cabin"
-    },
-    {
-      "title": "Nelly Korda",
-      "slug": "Nelly_Korda",
-      "views": 104138,
-      "rank": 21,
-      "priorViews": 71061,
-      "url": "https://en.wikipedia.org/wiki/Nelly_Korda"
-    },
-    {
-      "title": "Nithya Raman",
-      "slug": "Nithya_Raman",
-      "views": 100163,
-      "rank": 22,
-      "priorViews": 24901,
-      "url": "https://en.wikipedia.org/wiki/Nithya_Raman"
-    },
-    {
-      "title": "Michael Jackson",
-      "slug": "Michael_Jackson",
-      "views": 96378,
-      "rank": 23,
-      "priorViews": 114842,
-      "url": "https://en.wikipedia.org/wiki/Michael_Jackson"
-    },
-    {
-      "title": "2026 Armenian parliamentary election",
-      "slug": "2026_Armenian_parliamentary_election",
-      "views": 93251,
-      "rank": 24,
-      "priorViews": 83116,
-      "url": "https://en.wikipedia.org/wiki/2026_Armenian_parliamentary_election"
+      "priorViews": 144708,
+      "url": "https://en.wikipedia.org/wiki/Deaths_in_2026"
     },
     {
       "title": ".xxx",
       "slug": ".xxx",
-      "views": 90002,
-      "rank": 25,
-      "priorViews": 48394,
+      "views": 132086,
+      "rank": 13,
+      "priorViews": 167003,
       "url": "https://en.wikipedia.org/wiki/.xxx"
     },
     {
-      "title": "Jalen Brunson",
-      "slug": "Jalen_Brunson",
-      "views": 87519,
+      "title": "Constance Fisher",
+      "slug": "Constance_Fisher",
+      "views": 110902,
+      "rank": 14,
+      "priorViews": 82046,
+      "url": "https://en.wikipedia.org/wiki/Constance_Fisher"
+    },
+    {
+      "title": "The Gentlemen (2024 TV series)",
+      "slug": "The_Gentlemen_(2024_TV_series)",
+      "views": 106020,
+      "rank": 15,
+      "priorViews": 101360,
+      "url": "https://en.wikipedia.org/wiki/The_Gentlemen_(2024_TV_series)"
+    },
+    {
+      "title": "G. D. Naidu",
+      "slug": "G._D._Naidu",
+      "views": 105404,
+      "rank": 16,
+      "priorViews": 46106,
+      "url": "https://en.wikipedia.org/wiki/G._D._Naidu"
+    },
+    {
+      "title": "Sarvepalli Radhakrishnan",
+      "slug": "Sarvepalli_Radhakrishnan",
+      "views": 100509,
+      "rank": 17,
+      "priorViews": 25250,
+      "url": "https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan"
+    },
+    {
+      "title": "Richard O'Sullivan",
+      "slug": "Richard_O'Sullivan",
+      "views": 98625,
+      "rank": 18,
+      "priorViews": 251253,
+      "url": "https://en.wikipedia.org/wiki/Richard_O'Sullivan"
+    },
+    {
+      "title": "Dolly Parton",
+      "slug": "Dolly_Parton",
+      "views": 92883,
+      "rank": 19,
+      "priorViews": 93478,
+      "url": "https://en.wikipedia.org/wiki/Dolly_Parton"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "slug": "Spider-Man:_Brand_New_Day",
+      "views": 92152,
+      "rank": 20,
+      "priorViews": 85913,
+      "url": "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+    },
+    {
+      "title": "The Odyssey (2026 film)",
+      "slug": "The_Odyssey_(2026_film)",
+      "views": 91413,
+      "rank": 21,
+      "priorViews": 77390,
+      "url": "https://en.wikipedia.org/wiki/The_Odyssey_(2026_film)"
+    },
+    {
+      "title": "UFC Fight Night: Hooker vs. Parnasse",
+      "slug": "UFC_Fight_Night:_Hooker_vs._Parnasse",
+      "views": 90137,
+      "rank": 22,
+      "priorViews": 8534,
+      "url": "https://en.wikipedia.org/wiki/UFC_Fight_Night:_Hooker_vs._Parnasse"
+    },
+    {
+      "title": "Jai Arrow",
+      "slug": "Jai_Arrow",
+      "views": 88071,
+      "rank": 23,
+      "priorViews": 103054,
+      "url": "https://en.wikipedia.org/wiki/Jai_Arrow"
+    },
+    {
+      "title": ".xyz",
+      "slug": ".xyz",
+      "views": 87218,
+      "rank": 24,
+      "priorViews": 126087,
+      "url": "https://en.wikipedia.org/wiki/.xyz"
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "slug": "Coyote_vs._Acme",
+      "views": 86022,
+      "rank": 25,
+      "priorViews": 78965,
+      "url": "https://en.wikipedia.org/wiki/Coyote_vs._Acme"
+    },
+    {
+      "title": "Freddie Mercury",
+      "slug": "Freddie_Mercury",
+      "views": 84432,
       "rank": 26,
-      "priorViews": 78204,
-      "url": "https://en.wikipedia.org/wiki/Jalen_Brunson"
+      "priorViews": 13879,
+      "url": "https://en.wikipedia.org/wiki/Freddie_Mercury"
     },
     {
-      "title": "Béla Pap",
-      "slug": "Béla_Pap",
-      "views": 86893,
+      "title": "The Whisper Man",
+      "slug": "The_Whisper_Man",
+      "views": 83954,
       "rank": 27,
-      "priorViews": null,
-      "url": "https://en.wikipedia.org/wiki/Béla_Pap"
+      "priorViews": 71189,
+      "url": "https://en.wikipedia.org/wiki/The_Whisper_Man"
     },
     {
-      "title": "Robert Napper",
-      "slug": "Robert_Napper",
-      "views": 86007,
+      "title": "Neem Karoli Baba",
+      "slug": "Neem_Karoli_Baba",
+      "views": 83289,
       "rank": 28,
-      "priorViews": 120791,
-      "url": "https://en.wikipedia.org/wiki/Robert_Napper"
+      "priorViews": 82945,
+      "url": "https://en.wikipedia.org/wiki/Neem_Karoli_Baba"
     },
     {
-      "title": "Manav Suthar",
-      "slug": "Manav_Suthar",
-      "views": 84425,
+      "title": "Neatsville, Kentucky",
+      "slug": "Neatsville,_Kentucky",
+      "views": 82023,
       "rank": 29,
-      "priorViews": 131908,
-      "url": "https://en.wikipedia.org/wiki/Manav_Suthar"
+      "priorViews": 88320,
+      "url": "https://en.wikipedia.org/wiki/Neatsville,_Kentucky"
     },
     {
-      "title": "Teach You a Lesson",
-      "slug": "Teach_You_a_Lesson",
-      "views": 83358,
+      "title": "Buddy (2026 film)",
+      "slug": "Buddy_(2026_film)",
+      "views": 80144,
       "rank": 30,
-      "priorViews": 88984,
-      "url": "https://en.wikipedia.org/wiki/Teach_You_a_Lesson"
+      "priorViews": 90195,
+      "url": "https://en.wikipedia.org/wiki/Buddy_(2026_film)"
     },
     {
-      "title": "FIFA World Cup",
-      "slug": "FIFA_World_Cup",
-      "views": 82434,
+      "title": "Andy Ruiz Jr.",
+      "slug": "Andy_Ruiz_Jr.",
+      "views": 77244,
       "rank": 31,
-      "priorViews": 68616,
-      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup"
+      "priorViews": 9796,
+      "url": "https://en.wikipedia.org/wiki/Andy_Ruiz_Jr."
     },
     {
-      "title": "Lewis Hamilton",
-      "slug": "Lewis_Hamilton",
-      "views": 78769,
+      "title": "Lainey Wilson",
+      "slug": "Lainey_Wilson",
+      "views": 74494,
       "rank": 32,
-      "priorViews": 88231,
-      "url": "https://en.wikipedia.org/wiki/Lewis_Hamilton"
+      "priorViews": null,
+      "url": "https://en.wikipedia.org/wiki/Lainey_Wilson"
     },
     {
-      "title": "2026 Gilgit Baltistan Assembly election",
-      "slug": "2026_Gilgit_Baltistan_Assembly_election",
-      "views": 77056,
+      "title": "Silo (TV series)",
+      "slug": "Silo_(TV_series)",
+      "views": 72686,
       "rank": 33,
-      "priorViews": 32463,
-      "url": "https://en.wikipedia.org/wiki/2026_Gilgit_Baltistan_Assembly_election"
+      "priorViews": 85248,
+      "url": "https://en.wikipedia.org/wiki/Silo_(TV_series)"
     }
   ]
 }
