@@ -7,6 +7,10 @@ a git tag (see [RELEASING.md](RELEASING.md)).
 
 ## [Unreleased]
 
+### Changed
+
+- **Ports: the consumer event bus speaks the JS vocabulary** (#1020). The Swift `FieldEvent` cases `particleCapture` / `supernova` and the Kotlin `PARTICLE_CAPTURE` / `SUPERNOVA` entries — which were declared but never fired — are replaced by `captured` / `released` (`CAPTURED` / `RELEASED`), the keys `field.on()` uses on the web. Both ports now fire them from the same edges as the JS `updateCaptureEvents`: `captured` on the rising edge of a `sink` body's accretion (count = the matter held), `released` on the falling edge (count = the rising-edge peak) and directly from a supernova (count = the particles ejected), so a same-frame fill+release is never dropped. `FieldEventPayload` gains `count` (default `0`). **Breaking for a port consumer** that subscribed to the old cases — rename the case; the conformance golden is unaffected (no force math changed). `tick` / `bodyAdd` / `bodyRemove` are unchanged host-plane lifecycle events with no JS counterpart.
+
 ## [0.10.1] — 2026-07-21
 
 **Kotlin port parity: the Compose `FieldView` now renders a multi-hue palette.**
