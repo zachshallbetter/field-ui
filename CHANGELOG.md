@@ -7,6 +7,10 @@ a git tag (see [RELEASING.md](RELEASING.md)).
 
 ## [Unreleased]
 
+### Added
+
+- **`feedback-var-engine-owned` platform lint** (`@fundamental-engine/dom`). A feedback binding that routes a state key onto a var the engine already writes for every `data-feedback` body (`--d`, `--field-density`, `--field-heatmap-density`, `--load`, `--mass`, `--lit`, `--entropy`, `--coherence`, `--temperature`) is two writers on one var: the bound state value shadows the engine's live reading. This is the `--field-density`-reads-0-while-`--d`-is-live collision that made the documented density guidance produce no glow; `applyPattern` already refuses to bind the engine-owned `density` metric, and this rule catches every other route to the same collision. `lintFeedbackEngineOwned` + the `ENGINE_OWNED_FEEDBACK_VARS` set are exported and the rule runs under `lintPlatform()`. Documented in `docs/canonical/feedback-channels.md` §7.
+
 ## [0.10.1] — 2026-07-21
 
 **Kotlin port parity: the Compose `FieldView` now renders a multi-hue palette.**
