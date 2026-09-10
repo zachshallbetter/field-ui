@@ -122,7 +122,7 @@ export function useFieldField(opts: FieldOptions = {}): {
   const overlayCanvasRef = useRef<HTMLCanvasElement | null>(null);
   const {
     accent, density, depth, integrator, waves, waveStyle, waveCenter, background, render, overlay, overlayBackend,
-    mass, palette, attention, causality, heatmap, dprCap, separation, rng, now, feedbackSink,
+    mass, palette, attention, causality, heatmap, dprCap, separation, restingMotion, rng, now, feedbackSink,
   } = opts;
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -141,7 +141,7 @@ export function useFieldField(opts: FieldOptions = {}): {
     const field = createBrowserField(canvas, {
       accent, density, depth, integrator, waves, waveStyle, waveCenter, background, render,
       overlay, overlayCanvas: overlayCanvasRef.current ?? undefined, overlayBackend,
-      mass, palette, attention, causality, heatmap, dprCap, separation,
+      mass, palette, attention, causality, heatmap, dprCap, separation, restingMotion,
       rng, now, feedbackSink,
     });
     fieldRef.current = field;
@@ -153,7 +153,7 @@ export function useFieldField(opts: FieldOptions = {}): {
       overlayCanvasRef.current = null;
     };
     // declarative options drive recreation; the seams (rng/now/feedbackSink/overlayBackend) forward but stay out of deps.
-  }, [accent, density, depth, integrator, waves, waveStyle, waveCenter, background, render, overlay, mass, palette, attention, causality, heatmap, dprCap, separation]);
+  }, [accent, density, depth, integrator, waves, waveStyle, waveCenter, background, render, overlay, mass, palette, attention, causality, heatmap, dprCap, separation, restingMotion]);
   return { canvasRef, fieldRef };
 }
 
