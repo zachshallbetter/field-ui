@@ -522,7 +522,7 @@ final class FieldEngine: FieldHandle {
                        forces: registry.forces, conditions: registry.conditions,
                        waves: waves.isEmpty ? nil : waves,
                        waveStyle: options.waveStyle, waveCenter: resolvedCenter,
-                       separation: options.separation))
+                       separation: options.separation, restingMotion: options.restingMotion))
 
         // fire tick event + evaluate agent consumers after the force step.
         fire(FieldEventPayload(event: .tick))

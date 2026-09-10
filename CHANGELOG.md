@@ -7,6 +7,10 @@ a git tag (see [RELEASING.md](RELEASING.md)).
 
 ## [Unreleased]
 
+### Added
+
+- **`restingMotion` — the resting-motion floor, on every plane** (board #24 "resting liveliness"). Signals-first defaults (`render: 'none'`, waves off, ambient demoted) left any DRAWN-particle consumer with a field that settles into its attract wells and freezes when idle; the homepage carried an interim site-level ambient-swirl body, and every other consumer had to hand-add motion. `createField({ restingMotion: { mode: 'thermal' | 'flow', strength? } })` / `<field-root resting-motion="thermal">` / `<field-root resting-motion="flow 0.5">` is the first-class, **default-OFF** primitive: `thermal` is the `thermal` force's Langevin kick applied field-wide (Box–Muller through the injected `rng`, so a seeded run reproduces), `flow` a divergence-free curl (`restingFlow`, exported; ∂vx/∂x + ∂vy/∂y ≡ 0 by construction) with a slow phase drift. Both scale with `dt`, so reduced motion contributes exactly nothing; both are honest energy the field measures as `--temperature`, with nothing drawn. Default-off, so the cross-plane conformance golden is byte-identical. Mirrored on Swift (`FieldOptions.restingMotion`, `RestingMotion` / `RestingMotionMode`) and Kotlin (`createField(restingMotion = RestingMotion(...))`), with the same constants. The homepage's interim ambient-swirl body is left in place for a separate, visually reviewed swap.
+
 ## [0.10.1] — 2026-07-21
 
 **Kotlin port parity: the Compose `FieldView` now renders a multi-hue palette.**
