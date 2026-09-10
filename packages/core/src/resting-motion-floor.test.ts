@@ -176,3 +176,9 @@ test('thermal draws through the injected rng: a seeded run reproduces, a differe
   assert.deepEqual(run(7), run(7), 'same seed → identical positions');
   assert.notDeepEqual(run(7), run(8), 'different seed → different positions');
 });
+
+
+test('non-finite strength is rejected without corrupting the simulation', () => {
+  const { settled } = idleStep({ restingMotion: { mode: 'flow', strength: Infinity } });
+  assert.ok(Number.isFinite(settled), 'non-finite strength must not produce NaN/Infinity state');
+});
