@@ -453,7 +453,7 @@ export function createField(canvas: HTMLCanvasElement, opts: FieldOptions = {}):
         ? {
             mode: opts.restingMotion.mode,
             strength:
-              opts.restingMotion.strength != null && opts.restingMotion.strength >= 0 ? opts.restingMotion.strength : 1,
+              opts.restingMotion.strength != null && Number.isFinite(opts.restingMotion.strength) && opts.restingMotion.strength >= 0 ? opts.restingMotion.strength : 1,
           }
         : undefined,
     // the integration scheme (substrate doc 04 §Step 3, #659); 'legacy' (default) is the shipped engine.
